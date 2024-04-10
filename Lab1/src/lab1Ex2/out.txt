@@ -1,0 +1,4 @@
+Total: 27.0
+media: 4.5
+Minim: 2.0
+Maxim: 8.0
